@@ -9,4 +9,6 @@ num1=$((a*b+c))
 echo "$num1"
 num2=$((c+a/b))
 echo "$num2"
+num3=$((a%b+c))
+echo "$num3"
 
